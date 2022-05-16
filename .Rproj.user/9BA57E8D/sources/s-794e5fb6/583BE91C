@@ -1,0 +1,26 @@
+{
+    "id": "583BE91C",
+    "path": "/cloud/project/_posts/2022-05-16-test/test.Rmd",
+    "project_path": "_posts/2022-05-16-test/test.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1652685412245.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "11,3",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1652685411,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1652685411,
+    "read_only": false,
+    "read_only_alternatives": []
+}
